@@ -9,7 +9,7 @@
     background-size:auto;
   }
   .gpd-cnt{
-    padding:0;
+    padding: 10px;;
   }
   .gpd-header{
     margin:0;
@@ -148,14 +148,19 @@
     font-family:Arial Black, Gadget, sans-serif;
   }
   #i7p3y-2{
-    background-image:url('/img/overlay.png'), url('/img/plh6.jpg');
+    
     background-repeat:repeat, repeat;
     background-position:left top, center center;
     background-attachment:scroll, fixed;
     background-size:auto, cover;
   }
   body{
-    background-color:rgba(149,96,129,0.97);
+    width: 80%;
+  background-color: rgb(219, 122, 206);
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5%;
+  max-width: 70%;
   }
   #i21gr7{
     display:none;
@@ -166,33 +171,39 @@
   #i354e{
     height:670px;
     background-color:rgba(149,96,129,0.97);
+    padding: 5%;
   }
   #i9ywq{
     margin:10px 0 10px 0;
     background-color:rgba(99,56,56,0.53);
+    padding:2%;
   }
   #ifhc8w{
     margin:10px 0 0 0;
     background-color:rgba(99,56,56,0.59);
+    padding:2%;
   }
   #ivp8r{
-    margin:10px 0 10px 0;
+    margin:0px 0 10px 0;
     background-color:rgba(99,56,56,0.59);
+    padding:2%;
   }
   #im17t{
     margin:0 0 10px 0;
     background-color:rgba(99,56,56,0.48);
+    padding:2%;
   }
-  #io722z{
+  #io722z, #i2sz07,#iqapht, #irs1tg{
     background-color:rgba(99,56,56,0.59);
     margin:10px 0 10px 0;
+    padding:2%;
   }
   #i8mef{
     text-decoration:none;
   }
   #ig2452{
     background-color:#350e20;
-    margin:45px auto 0 auto;
+    margin:45px 180px 0 auto;
     position:relative;
   }
   #irs1tg{
